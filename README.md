@@ -9,3 +9,5 @@ define non coding RNAs. It has additional filters to remove tRNAs, rRNAs, and pr
 databases. It uses a blast search against a high quality uniprot protein database to remove potential coding sequences
 as an additional step to CNCI.
 
+It is not finished.
+
