@@ -26,7 +26,7 @@ import subprocess as sp
 import os
 from os import path
 import optparse
-from pylab import *
+#from pylab import *
 
 # parameters 
 
