@@ -31,7 +31,7 @@ from pylab import *
 # parameters 
 
 transcriptomefilename = 'transcriptsgenes.fa'
-inputfilename = 'transcriptsgenes.fa
+inputfilename = 'transcriptsgenes.fa'
 cores = '12'
 evalue = '1e-3' # for blast against swiss prot database
 
