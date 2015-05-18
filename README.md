@@ -1,4 +1,4 @@
-# noncodingRNAfinder.py
+# lncRNAidentifier.py
 
 Program to find non coding RNAs
 Developed in Python by molecular physiology at plant science cambridge 
